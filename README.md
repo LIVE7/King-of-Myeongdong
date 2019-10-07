@@ -4,6 +4,6 @@
 
 # https://bitbucket.org/LIVE7/king-of-myeongdong/src/master/
 
-## 위의 링크를 클릭하시면 해당 사이트로 갑니다.
+## 위의 링크를 클릭하시면 해당 사이트로 이동합니다.
 
 
